@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6e1ae932e9a66681",
+    "id": "344e40564af506fc",
     "type": "split",
     "children": [
       {
-        "id": "06dde652515b3da7",
+        "id": "2f07961dd88a8805",
         "type": "tabs",
         "children": [
           {
-            "id": "05a413f258465989",
+            "id": "98fcb5f1198a28a7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "1cfdceee567e9f29",
+            "id": "eb1459a1dc853ed6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "99af3a109976b7ff",
+    "id": "eb7f5a3af06320d8",
     "type": "split",
     "children": [
       {
-        "id": "a8ab90965742ef7a",
+        "id": "32edee6ae7a3d4ae",
         "type": "tabs",
         "children": [
           {
-            "id": "9e25e0d5f1cfa10b",
+            "id": "c9e743e63a3b8cf1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +52,7 @@
             }
           },
           {
-            "id": "11c4ad339ad5cd96",
+            "id": "21cfe296a35d117b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "14a7e038a42ab6e5",
+            "id": "a9134080336dd963",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "b343634ec15f9115",
+    "id": "b1ab3277e8d15269",
     "type": "split",
     "children": [
       {
-        "id": "614973c04ead781b",
+        "id": "93990ae1cfbdf659",
         "type": "tabs",
         "children": [
           {
-            "id": "a74accf73312741c",
+            "id": "d6851e242ca8654b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "7458d8378ebedaba",
+            "id": "3926b76a035c4f6e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,7 +118,7 @@
             }
           },
           {
-            "id": "678922a6ce3f3002",
+            "id": "cc59b7bb62ac413b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,7 +129,7 @@
             }
           },
           {
-            "id": "439007dd4445dce4",
+            "id": "014256518a41e810",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -155,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cfdceee567e9f29",
+  "active": "eb1459a1dc853ed6",
   "lastOpenFiles": [
     "Index.md"
   ]
