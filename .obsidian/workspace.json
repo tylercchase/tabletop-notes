@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "22b957724881e374",
+        "id": "cec62ddc55d667ac",
         "type": "tabs",
         "children": [
           {
-            "id": "5f9148d9d4cdfa0f",
+            "id": "23fd41723b2b3e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Houses/Lazarys.md",
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7bab862d1901012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kingdoms/Westeros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a1998c3d48e154f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Houses/Lazarys.md",
+                "file": "_templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Houses/Lazarys.md",
+                "file": "_templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Houses/Lazarys.md"
+                "file": "_templates/Untitled.md"
               }
             }
           },
@@ -162,17 +187,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c216fc2ad1563448",
+  "active": "7a1998c3d48e154f",
   "lastOpenFiles": [
-    "Houses/Lazarys",
-    "Home.md",
-    "Religions/Faith of the seven.md",
+    "Crownlands.md",
     "Kingdoms/Westeros.md",
+    "Houses/Lazarys.md",
     "_templates/Untitled.md",
+    "Encyclopedia/Maester.md",
+    "Home.md",
+    "Encyclopedia",
+    "Kingdoms/Essos.md",
+    "Houses/Lazarys/Test.md",
+    "Houses/Lazarys",
+    "Religions/Faith of the seven.md",
     "North.md",
     "_templates",
-    "Kingdoms/Essos.md",
-    "Houses/Lazarys.md",
     "Religions/Lord of light.md",
     "Religions/Old Gods.md",
     "CNAME",
