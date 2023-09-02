@@ -4,83 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3e508ba14510c5ef",
+        "id": "22b957724881e374",
         "type": "tabs",
         "children": [
           {
-            "id": "cf8108cb7a6a4b7a",
+            "id": "5f9148d9d4cdfa0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1b5be17be0d539b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Religions/Lord of light.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a9f9754a2c644c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Houses/Lazarys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c81705ebea3f3500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Religions/Lord of light.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b695e2b062c0926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Religions/Old Gods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "850ee22d88aabbbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Kingdoms/Westeros.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Kingdoms/Westeros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Kingdoms/Westeros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,17 +118,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/Kingdoms/Westeros.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "ad6cd720ff955584",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfc33da6fb166ca2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,19 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "850ee22d88aabbbe",
+  "active": "5f9148d9d4cdfa0f",
   "lastOpenFiles": [
-    "CNAME",
-    "notes/Religions/Old Gods.md",
-    "notes/Kingdoms/Westeros.md",
-    "notes/Religions/Faith of the seven.md",
-    "notes/Religions/Lord of light.md",
-    "notes/Kingdoms/Essos.md",
-    "notes/Houses/Lazarys.md",
-    "notes/Kingdoms",
-    "North.md",
-    "notes/Religions",
     "test.md",
-    "notes/Lands"
+    "North.md",
+    "Religions/Lord of light.md",
+    "Houses/Lazarys.md",
+    "Religions/Old Gods.md",
+    "Kingdoms/Westeros.md",
+    "CNAME",
+    "Religions/Faith of the seven.md",
+    "Kingdoms/Essos.md",
+    "Kingdoms",
+    "Religions",
+    "Lands"
   ]
 }
