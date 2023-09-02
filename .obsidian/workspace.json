@@ -1,48 +1,100 @@
 {
   "main": {
-    "id": "344e40564af506fc",
+    "id": "abf64288c2b57c93",
     "type": "split",
     "children": [
       {
-        "id": "2f07961dd88a8805",
+        "id": "3e508ba14510c5ef",
         "type": "tabs",
         "children": [
           {
-            "id": "98fcb5f1198a28a7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b18c57534623ba38",
+            "id": "cf8108cb7a6a4b7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Houses/Lazarys.md",
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1b5be17be0d539b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Religions/Lord of light.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a9f9754a2c644c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Houses/Lazarys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c81705ebea3f3500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Religions/Lord of light.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b695e2b062c0926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Religions/Old Gods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "850ee22d88aabbbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Kingdoms/Westeros.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eb7f5a3af06320d8",
+    "id": "634630c7c68ef895",
     "type": "split",
     "children": [
       {
-        "id": "32edee6ae7a3d4ae",
+        "id": "e619eeb86d2d853e",
         "type": "tabs",
         "children": [
           {
-            "id": "c9e743e63a3b8cf1",
+            "id": "c216fc2ad1563448",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +104,7 @@
             }
           },
           {
-            "id": "21cfe296a35d117b",
+            "id": "d7f43e8d68c340f5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +119,7 @@
             }
           },
           {
-            "id": "a9134080336dd963",
+            "id": "4e1b83c777e40622",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +133,20 @@
     "width": 300
   },
   "right": {
-    "id": "b1ab3277e8d15269",
+    "id": "32d5978790c39a08",
     "type": "split",
     "children": [
       {
-        "id": "93990ae1cfbdf659",
+        "id": "043855d6bc660f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "d6851e242ca8654b",
+            "id": "a1c70e02d447ff8c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Houses/Lazarys.md",
+                "file": "notes/Kingdoms/Westeros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +158,19 @@
             }
           },
           {
-            "id": "3926b76a035c4f6e",
+            "id": "59f4b3ba4f371fa6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Houses/Lazarys.md",
+                "file": "notes/Kingdoms/Westeros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cc59b7bb62ac413b",
+            "id": "0bbb2a41fdad087f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,12 +181,12 @@
             }
           },
           {
-            "id": "014256518a41e810",
+            "id": "0658b256dab698db",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Houses/Lazarys.md"
+                "file": "notes/Kingdoms/Westeros.md"
               }
             }
           }
@@ -155,12 +207,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9e743e63a3b8cf1",
+  "active": "c216fc2ad1563448",
   "lastOpenFiles": [
-    "Houses/Lazarys.md",
-    "Characters",
-    "Houses",
-    "Index.md",
-    "netlify.toml"
+    "notes/Religions/Old Gods.md",
+    "notes/Kingdoms/Westeros.md",
+    "notes/Religions/Faith of the seven.md",
+    "notes/Religions/Lord of light.md",
+    "notes/Kingdoms/Essos.md",
+    "notes/Houses/Lazarys.md",
+    "notes/Kingdoms",
+    "North.md",
+    "notes/Religions",
+    "test.md",
+    "notes/Lands"
   ]
 }
