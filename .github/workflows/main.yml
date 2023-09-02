@@ -1,16 +1,14 @@
-name: Deploy from Obsidian notes
-
-on:
-  push:
-    branches:
-      - main
-
+on: push
+name: Build and push obisidan-zola to pasges branch 
 jobs:
-  publish_job:
+  build:
     runs-on: ubuntu-latest
-    name: Publish Obsidian notes to Github pages
+    if: github.ref == 'refs/heads/main'
     steps:
-      - uses: x1sec/obsidian-to-hugo-action@main
-        with:
-          vault-path: .
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: build_and_deploy
+        uses: trwbox/obsidian-zola-build-action@v0.1.3.1-alpha
+        env:
+          PAGES_BRANCH: gh-pages
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
