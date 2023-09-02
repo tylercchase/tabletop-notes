@@ -8,7 +8,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
       - name: build_and_deploy
-        uses: trwbox/obsidian-zola-build-action@v0.1.3.1-alpha
+        uses: master4x/obsidian-zola-build-action@v0.1.3.3-quickfix
         env:
           PAGES_BRANCH: gh-pages
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
