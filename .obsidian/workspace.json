@@ -11,8 +11,12 @@
             "id": "5f9148d9d4cdfa0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Houses/Lazarys.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Houses/Lazarys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Houses/Lazarys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Houses/Lazarys.md"
+              }
             }
           },
           {
@@ -154,17 +162,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f9148d9d4cdfa0f",
+  "active": "c216fc2ad1563448",
   "lastOpenFiles": [
-    "test.md",
-    "North.md",
-    "Religions/Lord of light.md",
-    "Houses/Lazarys.md",
-    "Religions/Old Gods.md",
-    "Kingdoms/Westeros.md",
-    "CNAME",
+    "Houses/Lazarys",
+    "Home.md",
     "Religions/Faith of the seven.md",
+    "Kingdoms/Westeros.md",
+    "_templates/Untitled.md",
+    "North.md",
+    "_templates",
     "Kingdoms/Essos.md",
+    "Houses/Lazarys.md",
+    "Religions/Lord of light.md",
+    "Religions/Old Gods.md",
+    "CNAME",
     "Kingdoms",
     "Religions",
     "Lands"
