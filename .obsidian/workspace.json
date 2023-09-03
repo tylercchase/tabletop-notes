@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cec62ddc55d667ac",
+        "id": "2f09cce8cfae98a0",
         "type": "tabs",
         "children": [
           {
-            "id": "23fd41723b2b3e8f",
+            "id": "bc85d8979a3d1def",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7bab862d1901012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kingdoms/Westeros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a1998c3d48e154f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_templates/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,14 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a1998c3d48e154f",
+  "active": "bc85d8979a3d1def",
   "lastOpenFiles": [
-    "Crownlands.md",
-    "Kingdoms/Westeros.md",
-    "Houses/Lazarys.md",
-    "_templates/Untitled.md",
-    "Encyclopedia/Maester.md",
     "Home.md",
+    "Kingdoms/Westeros.md",
+    "_templates/Untitled.md",
+    "Crownlands.md",
+    "Houses/Lazarys.md",
+    "Encyclopedia/Maester.md",
     "Encyclopedia",
     "Kingdoms/Essos.md",
     "Houses/Lazarys/Test.md",
