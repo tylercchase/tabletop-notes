@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/October 15th.md",
+                "file": "Sessions/October 22th.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/October 15th.md",
+                "file": "Sessions/October 22th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/October 15th.md",
+                "file": "Sessions/October 22th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/October 15th.md"
+                "file": "Sessions/October 22th.md"
               }
             }
           },
@@ -223,8 +223,9 @@
   },
   "active": "9f965d04b171fe7b",
   "lastOpenFiles": [
-    "Goldencloaks.md",
     "Sessions/October 15th.md",
+    "Kingdoms/Cities/Kings Landing/Goldcloaks.md",
+    "Goldencloaks.md",
     "Lands/Crownlands.md",
     "Kingdoms/Cities/Kings Landing/Kings Landing.md",
     "Kingdoms/Cities/Kings Landing/Flea Bottom.md",
@@ -257,7 +258,6 @@
     "Kingdoms/Cities/Locations",
     "Kingdoms/Cities",
     "holding_zone/Oct 15.md",
-    "Religions/Lord of light.md",
     "holding_zone",
     "Encyclopedia"
   ]
