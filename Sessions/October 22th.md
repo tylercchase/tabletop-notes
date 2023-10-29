@@ -3,9 +3,15 @@
 	 - Bodies are stripped of clothing and carts looted
 	 - Knight is [[Sir Arlan of Pennytree]]
  - Riverlands apparantly had a darnish invasion at some point
- - Get to haranhall and everything is set up
-	 - Houses all over the place with their small setups
  - Learn of the conflict of [[House Blackwood]] and [[House Braken]]
 	 - Apparantly they fight over which mistress the king named two hill's after
  - Burnt the caravan for the ***HOLY FLAME***
- - [[House Braken]] and [[House Blackwood]] 
+ - Get to haranhall and everything is set up
+	 - Houses all over the place with their small setups
+ - [[House Braken]] and [[House Blackwood]] were setup right next to eachother causing issues
+ - [[Sir Damien Waters]] has high odds to win jousting
+ - [[Sir Roger Rain]] is someone who is high up
+ - [[Sir Quentin Ball]] master of arms of the red keep
+ - Uptick in bandit attack around the tournament
+ - [[Sir Damon Lannisters]]
+ - Ra
