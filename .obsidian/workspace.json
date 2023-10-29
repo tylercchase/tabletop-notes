@@ -23,9 +23,11 @@
             "id": "0771662a02df2328",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Sessions/October 15th.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/October 15th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/October 15th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/October 15th.md"
+              }
             }
           },
           {
@@ -181,11 +187,12 @@
   },
   "active": "0771662a02df2328",
   "lastOpenFiles": [
+    "Sessions/October 22th.md",
+    "Sessions/October 15th.md",
     "Untitled.md",
     "Pasted image 20231026090547.png",
     "Lands/Stormlands.md",
     "Kingdoms/Cities/Haranhall.md",
-    "Sessions/October 15th.md",
     "Home.md",
     "Sessions",
     "Lands/Crownlands.md",
