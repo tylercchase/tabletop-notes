@@ -14,4 +14,7 @@
  - [[Sir Quentin Ball]] master of arms of the red keep
  - Uptick in bandit attack around the tournament
  - [[Sir Damon Lannisters]]
- - Ra
+ - [[Chandra Nalaar]] seduced a [[Sir Edmun of Goldentooth]]
+ - [[Bartholomew]] won first round of jousting, lost in second
+ - [[Rychar Lazarys]] won first round of jousting, lost in second
+ - [[Sir Damien Waters]] won the tournament for jousting

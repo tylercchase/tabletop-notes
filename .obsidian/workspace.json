@@ -61,14 +61,134 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sessions/October 15th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c5c6c34430edc32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 15th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "785ab8158d4eb4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sessions/October 22th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1d20aa1f71b8d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 22th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f7d4a8b7c09f911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 22th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d7d13ea28840bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 22th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a33b9eea0408920e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 22th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32174eb3d9e34902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 22th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea879168b57ad3cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 22th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf1f2ff5ba70ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 22th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "771fc3eb5dcaea69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sir Damon Lannisters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -134,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/October 22th.md",
+                "file": "Sir Damon Lannisters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/October 22th.md",
+                "file": "Sir Damon Lannisters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/October 22th.md"
+                "file": "Sir Damon Lannisters.md"
               }
             }
           },
@@ -221,9 +341,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f965d04b171fe7b",
+  "active": "c216fc2ad1563448",
   "lastOpenFiles": [
+    "Houses/Lannisters",
+    "Sessions/October 22th.md",
+    "Sir Damon Lannisters.md",
+    "Houses/Ball/Sir Quentin Ball.md",
+    "Houses/Ball",
+    "Houses/Rain/Sir Roger Rain.md",
+    "Houses/Rain",
     "Sessions/October 15th.md",
+    "Houses/Waters/Sir Damien Waters.md",
+    "Houses/Blackwood/House Blackwood.md",
+    "Houses/Blackwood",
+    "Houses/Braken/House Braken.md",
+    "Houses/Braken",
+    "Houses/Sir Arlan of Pennytree.md",
+    "Kingdoms/Cities/Kings Landing/Kings Road.md",
+    "Houses/Staton/Lord Staton.md",
+    "Houses/Waters/Roger Waters.md",
     "Kingdoms/Cities/Kings Landing/Goldcloaks.md",
     "Goldencloaks.md",
     "Lands/Crownlands.md",
@@ -235,7 +371,6 @@
     "Houses/Waters",
     "Houses/Staton/Stefan Staton.md",
     "Houses/Staton",
-    "Sessions/October 22th.md",
     "Untitled.md",
     "Pasted image 20231026090547.png",
     "Lands/Stormlands.md",
@@ -243,22 +378,7 @@
     "Sessions",
     "Events/Haranhall Tournament.md",
     "Characters/Bartholomew.md",
-    "Characters/Bartimaeus Storm.md",
-    "_templates/Untitled.md",
-    "Kingdoms/Cities/Lazarys Castle.md",
-    "Kingdoms/Essos.md",
-    "Characters/Fyrelis Lazarys.md",
-    "Characters/Chandra Nalaar.md",
-    "Encyclopedia/Maester.md",
-    "Characters/Rychar Lazarys.md",
-    "Characters/Bobbiel Larzin.md",
-    "Houses/Lazarys.md",
     "Characters",
-    "Events",
-    "Kingdoms/Cities/Locations",
-    "Kingdoms/Cities",
-    "holding_zone/Oct 15.md",
-    "holding_zone",
-    "Encyclopedia"
+    "Events"
   ]
 }
