@@ -191,10 +191,11 @@
             "id": "3bcfb322fafefb80",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Sessions/October 22th.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -265,6 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/October 22th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,6 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/October 22th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +305,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/October 22th.md"
+              }
             }
           },
           {
@@ -350,6 +355,12 @@
   },
   "active": "3bcfb322fafefb80",
   "lastOpenFiles": [
+    "Sessions/October 29th.md",
+    "Sessions/October 22th.md",
+    "Kingdoms/Cities/Kings Landing/Kings Road.md",
+    "Kingdoms/Cities/Kings Landing/Kings Landing.md",
+    "Kingdoms/Cities/Kings Landing/Goldcloaks.md",
+    "Kingdoms/Cities/Kings Landing/Flea Bottom.md",
     "Houses/Waters/Sir Damien Waters.md",
     "Houses/Rain/Sir Roger Rain.md",
     "Religions/Lord of light.md",
@@ -357,11 +368,7 @@
     "Lands/Stormlands.md",
     "Lands/Crownlands.md",
     "Kingdoms/Westeros.md",
-    "Kingdoms/Cities/Kings Landing/Flea Bottom.md",
-    "Kingdoms/Cities/Kings Landing/Goldcloaks.md",
-    "Kingdoms/Cities/Kings Landing/Kings Road.md",
     "Kingdoms/Cities/Haranhall.md",
-    "Kingdoms/Cities/Kings Landing/Kings Landing.md",
     "Houses/Staton/Stefan Staton.md",
     "Houses/Staton/Lord Staton.md",
     "Houses/Randoms/Sir Edmun of Goldentooth.md",
@@ -369,7 +376,6 @@
     "Houses/Randoms/Sir Arlan of Pennytree.md",
     "Pasted image 20231026090547.png",
     "Houses/Randoms",
-    "Sessions/October 22th.md",
     "Houses/Lannisters/Sir Damon Lannisters.md",
     "Houses/Lannisters",
     "Houses/Ball/Sir Quentin Ball.md",
@@ -383,7 +389,6 @@
     "Houses/Waters/Roger Waters.md",
     "Goldencloaks.md",
     "Kingdoms/Cities/Kings Landing",
-    "Home.md",
     "Houses/Waters",
     "Houses/Staton",
     "Sessions"
