@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/October 22th.md",
+                "file": "Sessions/October 29th.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/October 22th.md",
+                "file": "Sessions/October 29th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/October 22th.md",
+                "file": "Sessions/October 29th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/October 22th.md"
+                "file": "Sessions/October 29th.md"
               }
             }
           },
@@ -355,8 +355,8 @@
   },
   "active": "3bcfb322fafefb80",
   "lastOpenFiles": [
-    "Sessions/October 29th.md",
     "Sessions/October 22th.md",
+    "Sessions/October 29th.md",
     "Kingdoms/Cities/Kings Landing/Kings Road.md",
     "Kingdoms/Cities/Kings Landing/Kings Landing.md",
     "Kingdoms/Cities/Kings Landing/Goldcloaks.md",
