@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "053ff55680cea628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 15th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e21a1382e73fa57e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 15th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f965d04b171fe7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 15th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,23 +221,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0771662a02df2328",
+  "active": "9f965d04b171fe7b",
   "lastOpenFiles": [
-    "Sessions/October 22th.md",
+    "Goldencloaks.md",
     "Sessions/October 15th.md",
+    "Lands/Crownlands.md",
+    "Kingdoms/Cities/Kings Landing/Kings Landing.md",
+    "Kingdoms/Cities/Kings Landing/Flea Bottom.md",
+    "Kingdoms/Cities/Kings Landing",
+    "Home.md",
+    "Houses/Waters/Jason Waters.md",
+    "Houses/Waters",
+    "Houses/Staton/Stefan Staton.md",
+    "Houses/Staton",
+    "Sessions/October 22th.md",
     "Untitled.md",
     "Pasted image 20231026090547.png",
     "Lands/Stormlands.md",
     "Kingdoms/Cities/Haranhall.md",
-    "Home.md",
     "Sessions",
-    "Lands/Crownlands.md",
     "Events/Haranhall Tournament.md",
     "Characters/Bartholomew.md",
     "Characters/Bartimaeus Storm.md",
     "_templates/Untitled.md",
     "Kingdoms/Cities/Lazarys Castle.md",
-    "Kingdoms/Cities/Kings Landing.md",
     "Kingdoms/Essos.md",
     "Characters/Fyrelis Lazarys.md",
     "Characters/Chandra Nalaar.md",
@@ -216,13 +259,6 @@
     "holding_zone/Oct 15.md",
     "Religions/Lord of light.md",
     "holding_zone",
-    "Kingdoms/Westeros.md",
-    "Encyclopedia",
-    "Houses/Lazarys/Test.md",
-    "Houses/Lazarys",
-    "Religions/Faith of the seven.md",
-    "North.md",
-    "_templates",
-    "CNAME"
+    "Encyclopedia"
   ]
 }
