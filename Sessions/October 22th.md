@@ -1,1 +1,11 @@
-Taking the kin
+ - Taking the [[Kings Road]] up to Haranhall
+ - Found an abandoned cart with bodies strewn and a knight looking over the bodies
+	 - Bodies are stripped of clothing and carts looted
+	 - Knight is [[Sir Arlan of Pennytree]]
+ - Riverlands apparantly had a darnish invasion at some point
+ - Get to haranhall and everything is set up
+	 - Houses all over the place with their small setups
+ - Learn of the conflict of [[House Blackwood]] and [[House Braken]]
+	 - Apparantly they fight over which mistress the king named two hill's after
+ - Burnt the caravan for the ***HOLY FLAME***
+ - [[House Braken]] and [[House Blackwood]] 
