@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/October 29th.md",
+                "file": "Sessions/November 12th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0594ff1dfe58e743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/November 12th.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/October 29th.md",
+                "file": "Sessions/November 12th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/October 29th.md",
+                "file": "Sessions/November 12th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/October 29th.md"
+                "file": "Sessions/November 12th.md"
               }
             }
           },
@@ -209,14 +221,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a003d6e3323566d6",
+  "active": "0594ff1dfe58e743",
   "lastOpenFiles": [
-    "Houses/Braken/Lord Braken.md",
     "Sessions/October 29th.md",
+    "Sessions/November 12th.md",
+    "Sessions/October 15th.md",
+    "Sessions/October 22th.md",
+    "Kingdoms/Cities/Capycove.md",
+    "Capycove.md",
+    "Encyclopedia/Castellean.md",
+    "Houses/Staton/Lord Staton.md",
+    "Houses/Braken/Lord Braken.md",
     "Home.md",
     "Houses/Randoms/Serrin.md",
     "Encyclopedia/Hedge Knights.md",
-    "Sessions/October 22th.md",
     "Houses/Rain/Sir Roger Rain.md",
     "Kingdoms/Cities/Kings Landing/Kings Road.md",
     "Kingdoms/Cities/Kings Landing/Kings Landing.md",
@@ -230,18 +248,12 @@
     "Kingdoms/Westeros.md",
     "Kingdoms/Cities/Haranhall.md",
     "Houses/Staton/Stefan Staton.md",
-    "Houses/Staton/Lord Staton.md",
     "Houses/Randoms/Sir Edmun of Goldentooth.md",
-    "Houses/Randoms/Lazarys.md",
-    "Houses/Randoms/Sir Arlan of Pennytree.md",
     "Pasted image 20231026090547.png",
     "Houses/Randoms",
-    "Houses/Lannisters/Sir Damon Lannisters.md",
     "Houses/Lannisters",
-    "Houses/Ball/Sir Quentin Ball.md",
     "Houses/Ball",
     "Houses/Rain",
-    "Sessions/October 15th.md",
     "Houses/Blackwood",
     "Houses/Braken",
     "Kingdoms/Cities/Kings Landing",
