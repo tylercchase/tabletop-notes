@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0debb2a3b6a96f10",
+        "id": "40a57d2ae3431b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "3bcfb322fafefb80",
+            "id": "5f72cdc4ddbd9eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/October 29th.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "192c352a3e15cca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/October 29th.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36ddc97e092a4dd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/October 29th.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a003d6e3323566d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/November 12th.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0594ff1dfe58e743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/November 12th.md",
+                "file": "Sessions/November 19th.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/November 12th.md",
+                "file": "Sessions/November 19th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/November 12th.md",
+                "file": "Sessions/November 19th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/November 12th.md"
+                "file": "Sessions/November 19th.md"
               }
             }
           },
@@ -221,9 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0594ff1dfe58e743",
+  "active": "5f72cdc4ddbd9eb0",
   "lastOpenFiles": [
     "Sessions/October 29th.md",
+    "Sessions/November 19th.md",
     "Sessions/November 12th.md",
     "Sessions/October 15th.md",
     "Sessions/October 22th.md",
@@ -248,7 +200,6 @@
     "Kingdoms/Westeros.md",
     "Kingdoms/Cities/Haranhall.md",
     "Houses/Staton/Stefan Staton.md",
-    "Houses/Randoms/Sir Edmun of Goldentooth.md",
     "Pasted image 20231026090547.png",
     "Houses/Randoms",
     "Houses/Lannisters",

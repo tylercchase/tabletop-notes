@@ -123,5 +123,4 @@ Vision:
 Ocean and white ship
 Crow's nest and baby crow hawking at me and making eye contact with me
 
-
 +20 experience and 1 glory
