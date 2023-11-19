@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Ice and Fire Notes</title>
+	<link href="https://iceandfire.tyler.games/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://iceandfire.tyler.games/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-11-19T22:33:23.896916+00:00</updated>
+	<id>https://iceandfire.tyler.games/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Bartholomew</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/characters/bartholomew/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/characters/bartholomew/</id>
+		<content type="html">&lt;p&gt;Expert Fighter&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Bartimaeus Storm</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/characters/bartimaeus-storm/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/characters/bartimaeus-storm/</id>
+		<content type="html">&lt;p&gt;Retainer of House &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;lazarys&quot;&gt;Lazarys&lt;&#x2F;a&gt;, sneaky assassin&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Bobbiel Larzin</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/characters/bobbiel-larzin/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/characters/bobbiel-larzin/</id>
+		<content type="html">&lt;p&gt;Retainer of House &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;lazarys&quot;&gt;Lazarys&lt;&#x2F;a&gt;. Ex Pirate. Fears fire. Carries laxative necklace.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Chandra Nalaar</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/characters/chandra-nalaar/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/characters/chandra-nalaar/</id>
+		<content type="html">&lt;p&gt;Retainer of house &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;lazarys&quot;&gt;Lazarys&lt;&#x2F;a&gt;. Priestess of the &lt;a href=&quot;&#x2F;docs&#x2F;religions&#x2F;lord-of-light&quot;&gt;Lord of light&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Fyrelis Lazarys</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/characters/fyrelis-lazarys/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/characters/fyrelis-lazarys/</id>
+		<content type="html">&lt;p&gt;Member of House &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;lazarys&quot;&gt;Lazarys&lt;&#x2F;a&gt;. Son of current head of households brother. Very persuasive. Fan of the &lt;a href=&quot;&#x2F;docs&#x2F;religions&#x2F;lord-of-light&quot;&gt;Lord of light&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Rychar Lazarys</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/characters/rychar-lazarys/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/characters/rychar-lazarys/</id>
+		<content type="html">&lt;p&gt;Member of House &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;lazarys&quot;&gt;Lazarys&lt;&#x2F;a&gt;. Second in line to the house&#x27;s leadership position.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Hedge Knights</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/encyclopedia/hedge-knights/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/encyclopedia/hedge-knights/</id>
+		<content type="html">&lt;p&gt;A knight who has no land and money. The joke is that they sleep in hedges.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Home</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/home/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/home/</id>
+		<content type="html">&lt;p&gt;A notes page for a tabletop game in the system of &lt;a href=&quot;https:&#x2F;&#x2F;greenronin.com&#x2F;sifrp&#x2F;&quot;&gt;A Song of Ice and Fire&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;OF NOTE&lt;&#x2F;strong&gt;: I have not interacted with the Game of Thrones universe and lore outside of this game, I am purposefully going in very blind. Things may be plain wrong or different than official lore due to deviations. We are playing before the main events of the show&#x2F;books.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Capycove</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/kingdoms/cities/capycove/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/kingdoms/cities/capycove/</id>
+		<content type="html">&lt;p&gt;Home to House &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;lazarys&quot;&gt;Lazarys&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Located in the &lt;a href=&quot;&#x2F;docs&#x2F;lands&#x2F;stormlands&quot;&gt;Stormlands&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Haranhall</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/kingdoms/cities/haranhall/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/kingdoms/cities/haranhall/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Kings Landing</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/kingdoms/cities/kings-landing/kings-landing/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/kingdoms/cities/kings-landing/kings-landing/</id>
+		<content type="html">&lt;p&gt;Place where the king resides&lt;&#x2F;p&gt;
+&lt;p&gt;Currently has King &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Kings Road</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/kingdoms/cities/kings-landing/kings-road/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/kingdoms/cities/kings-landing/kings-road/</id>
+		<content type="html">&lt;p&gt;Goes up most of &lt;a href=&quot;&#x2F;docs&#x2F;kingdoms&#x2F;westeros&quot;&gt;Westeros&lt;&#x2F;a&gt; if you want to go north, this is the way to do it.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Essos</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/kingdoms/essos/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/kingdoms/essos/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Westeros</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/kingdoms/westeros/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/kingdoms/westeros/</id>
+		<content type="html">&lt;p&gt;Main place things are taking place in&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>November 12Th</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/sessions/november-12th/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/sessions/november-12th/</id>
+		<content type="html">&lt;p&gt;Spooky session&lt;br &#x2F;&gt;
+Day after the tournament&lt;br &#x2F;&gt;
+Maestar of haranhall would talk to us, but is super busy&lt;br &#x2F;&gt;
+free to leave if we want&lt;&#x2F;p&gt;
+&lt;p&gt;want to get info on &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;serrin&quot;&gt;Serrin&lt;&#x2F;a&gt; and possibly some coin in compensation&lt;&#x2F;p&gt;
+&lt;p&gt;getting in touch with the lord&lt;br &#x2F;&gt;
+&lt;em&gt;Lord Lothston&lt;&#x2F;em&gt; is meeting up with us&lt;br &#x2F;&gt;
+castle is still kinda ruined from history&lt;br &#x2F;&gt;
+we&#x27;re in year 183 after conquest&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;encyclopedia&#x2F;castellean&quot;&gt;Castellean&lt;&#x2F;a&gt; and  &lt;a href=&quot;&#x2F;docs&#x2F;encyclopedia&#x2F;maester&quot;&gt;Maester&lt;&#x2F;a&gt; are by his side&lt;&#x2F;p&gt;
+&lt;p&gt;hospitality and protection pledge? Maestar is basically in charge&lt;&#x2F;p&gt;
+&lt;p&gt;Maestar Barth&lt;&#x2F;p&gt;
+&lt;p&gt;Maestar has looked over a bunch of &lt;&#x2F;p&gt;
+&lt;p&gt;House in stormlands&lt;br &#x2F;&gt;
+&lt;em&gt;House Moorewind&lt;&#x2F;em&gt; is the house sigil&lt;br &#x2F;&gt;
+Is the house that was where we currently are and the house that we took over&lt;br &#x2F;&gt;
+It was in a war between a bunch of nearby houses&lt;&#x2F;p&gt;
+&lt;p&gt;Taking the horses of the bandits as recompense&lt;br &#x2F;&gt;
+3 palfreys (1 goes to &lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;bartholomew&quot;&gt;Bartholomew&lt;&#x2F;a&gt;)&lt;br &#x2F;&gt;
+1 pony&lt;&#x2F;p&gt;
+&lt;p&gt;Lord Lothston was once &amp;quot;The Hand&amp;quot; second in command to the kingdom&lt;br &#x2F;&gt;
+Basically just a position that let the current king bang their family members&lt;&#x2F;p&gt;
+&lt;p&gt;Small council&lt;br &#x2F;&gt;
+The Hand&lt;br &#x2F;&gt;
+Master of Laws&lt;br &#x2F;&gt;
+King (if he shows up)&lt;br &#x2F;&gt;
+Master of Coin&lt;br &#x2F;&gt;
+Master of whispers&lt;br &#x2F;&gt;
+Master of men&lt;br &#x2F;&gt;
+Master of horse&lt;&#x2F;p&gt;
+&lt;p&gt;healed &lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;bobbiel-larzin&quot;&gt;Bobbiel Larzin&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;heading down the king&#x27;s road to king&#x27;s landing&lt;&#x2F;p&gt;
+&lt;p&gt;second day travelling&lt;br &#x2F;&gt;
+things have changed&lt;br &#x2F;&gt;
+bodies have been hung&lt;br &#x2F;&gt;
+hamlet is empty 20-40 people gone&lt;br &#x2F;&gt;
+peasant&#x27;s are the ones that have been hanged&lt;br &#x2F;&gt;
+drained of blood&lt;&#x2F;p&gt;
+&lt;p&gt;Family was in a house&lt;br &#x2F;&gt;
+Mom and dad with faces torn off&lt;br &#x2F;&gt;
+Lots of horse tracks&lt;br &#x2F;&gt;
+going heading south west&lt;br &#x2F;&gt;
+Dogs have died :&#x27;(&lt;&#x2F;p&gt;
+&lt;p&gt;Going through the houses&lt;&#x2F;p&gt;
+&lt;p&gt;Finally hear something when going into a house&lt;br &#x2F;&gt;
+Something underneath a bed&lt;&#x2F;p&gt;
+&lt;p&gt;Old man under the bed 70 years old&lt;br &#x2F;&gt;
+Massive beard&lt;&#x2F;p&gt;
+&lt;p&gt;Hid underneath the floorboards&lt;br &#x2F;&gt;
+Madmens came?&lt;br &#x2F;&gt;
+Started talking about their lord&lt;br &#x2F;&gt;
+Answer lies in the blood&lt;&#x2F;p&gt;
+&lt;p&gt;Lord of the blood&lt;br &#x2F;&gt;
+Took everyone and killed people and animals&lt;br &#x2F;&gt;
+There this morning&lt;br &#x2F;&gt;
+Came at sunrise&lt;&#x2F;p&gt;
+&lt;p&gt;Brought people into center and asked them to accept the blood&lt;&#x2F;p&gt;
+&lt;p&gt;Putting the old man underneath the floorboards and dragging a dresser over him to keep him locked away&lt;&#x2F;p&gt;
+&lt;p&gt;Following the tracks of horses and peasants&lt;&#x2F;p&gt;
+&lt;p&gt;Got here at afternoon and it is now nighttime&lt;&#x2F;p&gt;
+&lt;p&gt;A massive fire in the distance&lt;br &#x2F;&gt;
+More people hanged in the treelines&lt;br &#x2F;&gt;
+Actively bleeding blood&lt;&#x2F;p&gt;
+&lt;p&gt;Old man in front of the fire (NOT THE ONE WE TRAPPED)&lt;br &#x2F;&gt;
+preaching in front of the fire to the peasants&lt;&#x2F;p&gt;
+&lt;p&gt;Man soaking in blood&lt;br &#x2F;&gt;
+about 6 other cultists around the fire&lt;br &#x2F;&gt;
+hide armor on them and all equipped with battle axes or hand axes&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;quot;look how the blood makes him even stronger&amp;quot; - old man&lt;br &#x2F;&gt;
+Old man locks in on &lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;bartholomew&quot;&gt;Bartholomew&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Saying the lord of light challenges him.&lt;&#x2F;p&gt;
+&lt;p&gt;Massive dude bathed in blood&lt;br &#x2F;&gt;
+The idol is dead&lt;&#x2F;p&gt;
+&lt;p&gt;6 cultists&lt;br &#x2F;&gt;
+2 are out of it because they&#x27;re convinced&lt;&#x2F;p&gt;
+&lt;p&gt;Burned 2 cultist for the lord of light&lt;br &#x2F;&gt;
+Commenced a sermon to recruit the peasants &lt;&#x2F;p&gt;
+&lt;p&gt;Saved the peasants to bring back to the village&lt;&#x2F;p&gt;
+&lt;p&gt;Cultists have an axe and handaxe&lt;br &#x2F;&gt;
+And breastplate armor from the idol of blood&lt;&#x2F;p&gt;
+&lt;p&gt;20 rescued half kids&lt;&#x2F;p&gt;
+&lt;p&gt;Taking them back to our town &lt;a href=&quot;&#x2F;docs&#x2F;kingdoms&#x2F;cities&#x2F;capycove&quot;&gt;Capycove&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
++1 population&lt;&#x2F;p&gt;
+&lt;p&gt;Burning down the village&lt;br &#x2F;&gt;
+Had to convince kid that his dad&#x27;s voice was a sign from the lord of light&lt;&#x2F;p&gt;
+&lt;p&gt;Vision:&lt;br &#x2F;&gt;
+Ocean and white ship&lt;br &#x2F;&gt;
+Crow&#x27;s nest and baby crow hawking at me and making eye contact with me&lt;&#x2F;p&gt;
+&lt;p&gt;+20 experience and 1 glory&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>November 19Th</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/sessions/november-19th/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/sessions/november-19th/</id>
+		<content type="html">&lt;p&gt;Travelling down to king&#x27;s landing&lt;&#x2F;p&gt;
+&lt;p&gt;Trampling through the area&lt;br &#x2F;&gt;
+Man wearing all black with a group of peasants&lt;br &#x2F;&gt;
+Black cloak with fur and overdressed for the weather&lt;br &#x2F;&gt;
+Dead horse and man in front of them&lt;br &#x2F;&gt;
+Man in black cloak&lt;&#x2F;p&gt;
+&lt;p&gt;Recruiting for night&#x27;s watch?&lt;br &#x2F;&gt;
+&lt;em&gt;Night Watch&lt;&#x2F;em&gt; recruit people from prisons and stuff&lt;br &#x2F;&gt;
+Killed a guy that tried to run away&lt;&#x2F;p&gt;
+&lt;p&gt;Wolf sigil emblazoned on some of the guards shoulders&lt;br &#x2F;&gt;
+Guards from house stark ^&lt;br &#x2F;&gt;
+They&#x27;re going to the wall&lt;&#x2F;p&gt;
+&lt;p&gt;Few runaways escaped&lt;br &#x2F;&gt;
+A few gold cloaks are in the recruits&lt;br &#x2F;&gt;
+The lordlings son escaped&lt;&#x2F;p&gt;
+&lt;p&gt;10 year old kid with silver hair, creepy&lt;&#x2F;p&gt;
+&lt;p&gt;In king&#x27;s landing&lt;br &#x2F;&gt;
+Bought a cart of bowls of brown for the peasants&lt;&#x2F;p&gt;
+&lt;p&gt;Rumors are spreading about Haranhall&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;lord&#x27;s son abducted to be with their peasant lover&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;King is bedridden&lt;&#x2F;p&gt;
+&lt;p&gt;Buying tons of trade goods&lt;&#x2F;p&gt;
+&lt;p&gt;Dead horses and wagon that&#x27;s been stopped&lt;br &#x2F;&gt;
+Dead guy w&#x2F; wolves&lt;br &#x2F;&gt;
+5 wolves dead after combat&lt;&#x2F;p&gt;
+&lt;p&gt;Recruited the kid from the dad from before under my wing(Named Robby)&lt;&#x2F;p&gt;
+&lt;p&gt;Little brother of &lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;rychar-lazarys&quot;&gt;Rychar Lazarys&lt;&#x2F;a&gt; excited to see us&lt;&#x2F;p&gt;
+&lt;p&gt;20 years ago lord barathian had a retinue under their command&lt;br &#x2F;&gt;
+Moorewinds eldest son,  daughter of lord barathian&lt;br &#x2F;&gt;
+Orrus had permission from lord barathian to burn things to the ground&lt;br &#x2F;&gt;
+Thought they&#x27;d killed everyone&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;serrin&quot;&gt;Serrin&lt;&#x2F;a&gt; was a baby that lived through it&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;serrin&quot;&gt;Serrin&lt;&#x2F;a&gt;&#x27;s great uncle is the one to be concerned about.&lt;br &#x2F;&gt;
+Not present there &lt;em&gt;Arthur Moorewind&lt;&#x2F;em&gt;&lt;br &#x2F;&gt;
+Still alive, 65 years old&lt;br &#x2F;&gt;
+2 wars, served in dance of dragons&lt;br &#x2F;&gt;
+Fled to pentos and served the second suns&lt;br &#x2F;&gt;
+No idea where he is now&lt;br &#x2F;&gt;
+Super good warrior &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;rychar-lazarys&quot;&gt;Rychar Lazarys&lt;&#x2F;a&gt; still serving at Storm&#x27;s End for his duty&lt;br &#x2F;&gt;
+Serving as a knight in the castle&lt;&#x2F;p&gt;
+&lt;p&gt;Peseants going to sir ricard to get trained&lt;br &#x2F;&gt;
+News from king&#x27;s landing,&lt;br &#x2F;&gt;
+king still in bed&lt;br &#x2F;&gt;
+royal decree - all children sired from king Aegon are now legitimate heirs&lt;br &#x2F;&gt;
+even out of wedlock children&lt;&#x2F;p&gt;
+&lt;p&gt;+10 experience&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>October 15Th</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/sessions/october-15th/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/sessions/october-15th/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;bartholomew&quot;&gt;Bartholomew&lt;&#x2F;a&gt; out sick&lt;br &#x2F;&gt;
+Got a raven invite to &lt;a href=&quot;&#x2F;docs&#x2F;events&#x2F;haranhall-tournament&quot;&gt;Haranhall Tournament&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Took a ship up to &lt;a href=&quot;&#x2F;docs&#x2F;kingdoms&#x2F;cities&#x2F;kings-landing&#x2F;kings-landing&quot;&gt;Kings Landing&lt;&#x2F;a&gt; rather than going up through the kingswood&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Captain of ship is Erin Lazarys&lt;br &#x2F;&gt;
+Encountered a ship wreck along the way&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;On the coast of Massey&#x27;s Hook&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Crest of targaryans&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Ship name first three characters: DAE&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Some notable things around kings watch city&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Great sept of Baelor - Related to the seven gods&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;New commander of the city watch&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Asking for way more taxes to enter the city&lt;&#x2F;li&gt;
+&lt;li&gt;Took over position from &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;staton&#x2F;stefan-staton&quot;&gt;Stefan Staton&lt;&#x2F;a&gt; who was ousted&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;waters&#x2F;jason-waters&quot;&gt;Jason Waters&lt;&#x2F;a&gt;, whose dad is Lord Darken took over the position&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Got some bowl o&#x27; brown and &lt;strong&gt;loved&lt;&#x2F;strong&gt; it&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;waters&#x2F;jason-waters&quot;&gt;Jason Waters&lt;&#x2F;a&gt; is taxing everything, even the taverns! (Unless they give him some of their services)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;staton&#x2F;stefan-staton&quot;&gt;Stefan Staton&lt;&#x2F;a&gt; is set to patrol &lt;a href=&quot;&#x2F;docs&#x2F;kingdoms&#x2F;cities&#x2F;kings-landing&#x2F;flea-bottom&quot;&gt;Flea Bottom&lt;&#x2F;a&gt; (the slums)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Met him and convinced him to help us expose the &lt;a href=&quot;&#x2F;docs&#x2F;kingdoms&#x2F;cities&#x2F;kings-landing&#x2F;goldcloaks&quot;&gt;Goldcloaks&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Jason is giving doctored records to the king to make it seem like he isn&#x27;t taking as many bribes&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Those papers go to the Master of Coin, if we can get the fakes and actual ones to him might be able to cause trouble&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;staton&#x2F;stefan-staton&quot;&gt;Stefan Staton&lt;&#x2F;a&gt; wants the gold from the bribes and taxes &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;waters&#x2F;jason-waters&quot;&gt;Jason Waters&lt;&#x2F;a&gt; has been collecting&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Disguise as auditors and go into the West Barracks and into the office of &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;staton&#x2F;stefan-staton&quot;&gt;Stefan Staton&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Returned some of the gold and the papers to &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;staton&#x2F;stefan-staton&quot;&gt;Stefan Staton&lt;&#x2F;a&gt; and met &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;staton&#x2F;lord-staton&quot;&gt;Lord Staton&lt;&#x2F;a&gt; and was thanked&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Apparantly &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;waters&#x2F;jason-waters&quot;&gt;Jason Waters&lt;&#x2F;a&gt; got his position through a daughter of the family catching the king&#x27;s eye&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;waters&#x2F;roger-waters&quot;&gt;Roger Waters&lt;&#x2F;a&gt; is competing told us to keep an eye out for him&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Saw a vision in the flames&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Big castle &lt;a href=&quot;&#x2F;docs&#x2F;kingdoms&#x2F;cities&#x2F;haranhall&quot;&gt;Haranhall&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Bats flying&lt;&#x2F;li&gt;
+&lt;li&gt;Black three headed dragon&lt;&#x2F;li&gt;
+&lt;li&gt;Vipers slithering into the castle&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>October 22Th</title>
+		<published>2023-11-19T22:33:23.896916+00:00</published>
+		<updated>2023-11-19T22:33:23.896916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/sessions/october-22th/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/sessions/october-22th/</id>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;Taking the &lt;a href=&quot;&#x2F;docs&#x2F;kingdoms&#x2F;cities&#x2F;kings-landing&#x2F;kings-road&quot;&gt;Kings Road&lt;&#x2F;a&gt; up to Haranhall&lt;&#x2F;li&gt;
+&lt;li&gt;Found an abandoned cart with bodies strewn and a knight looking over the bodies
+&lt;ul&gt;
+&lt;li&gt;Bodies are stripped of clothing and carts looted&lt;&#x2F;li&gt;
+&lt;li&gt;Knight is &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;sir-arlan-of-pennytree&quot;&gt;Sir Arlan of Pennytree&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Riverlands apparantly had a darnish invasion at some point&lt;&#x2F;li&gt;
+&lt;li&gt;Learn of the conflict of &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;blackwood&#x2F;house-blackwood&quot;&gt;House Blackwood&lt;&#x2F;a&gt; and &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;braken&#x2F;house-braken&quot;&gt;House Braken&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Apparantly they fight over which mistress the king named two hill&#x27;s after&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Burnt the caravan for the &lt;em&gt;&lt;strong&gt;HOLY FLAME&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Get to haranhall and everything is set up
+&lt;ul&gt;
+&lt;li&gt;Houses all over the place with their small setups&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;braken&#x2F;house-braken&quot;&gt;House Braken&lt;&#x2F;a&gt; and &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;blackwood&#x2F;house-blackwood&quot;&gt;House Blackwood&lt;&#x2F;a&gt; were setup right next to eachother causing issues&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;waters&#x2F;sir-damien-waters&quot;&gt;Sir Damien Waters&lt;&#x2F;a&gt; has high odds to win jousting&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;rain&#x2F;sir-roger-rain&quot;&gt;Sir Roger Rain&lt;&#x2F;a&gt; is someone who is high up&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;ball&#x2F;sir-quentin-ball&quot;&gt;Sir Quentin Ball&lt;&#x2F;a&gt; master of arms of the red keep&lt;&#x2F;li&gt;
+&lt;li&gt;Uptick in bandit attack around the tournament&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;lannisters&#x2F;sir-damon-lannisters&quot;&gt;Sir Damon Lannisters&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;chandra-nalaar&quot;&gt;Chandra Nalaar&lt;&#x2F;a&gt; seduced a &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;sir-edmun-of-goldentooth&quot;&gt;Sir Edmun of Goldentooth&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;bartholomew&quot;&gt;Bartholomew&lt;&#x2F;a&gt; won first round of jousting, lost in second&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;rychar-lazarys&quot;&gt;Rychar Lazarys&lt;&#x2F;a&gt; won first round of jousting, lost in second&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;waters&#x2F;sir-damien-waters&quot;&gt;Sir Damien Waters&lt;&#x2F;a&gt; won the tournament for jousting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Castellean</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/encyclopedia/castellean/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/encyclopedia/castellean/</id>
+		<content type="html">&lt;p&gt;Manages the castle&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Maester</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/encyclopedia/maester/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/encyclopedia/maester/</id>
+		<content type="html">&lt;p&gt;Connected to a noble house and a doctor, scholar and raven messenger person.&lt;br &#x2F;&gt;
+MEGA NERD&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Haranhall Tournament</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/events/haranhall-tournament/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/events/haranhall-tournament/</id>
+		<content type="html">&lt;p&gt;Ravens sent out to many people to participate&lt;&#x2F;p&gt;
+&lt;p&gt;Known Invitees&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;rychar-lazarys&quot;&gt;Rychar Lazarys&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sir Quentin Ball</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/ball/sir-quentin-ball/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/ball/sir-quentin-ball/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>House Blackwood</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/blackwood/house-blackwood/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/blackwood/house-blackwood/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>House Braken</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/braken/house-braken/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/braken/house-braken/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Lord Braken</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/braken/lord-braken/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/braken/lord-braken/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sir Damon Lannisters</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/lannisters/sir-damon-lannisters/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/lannisters/sir-damon-lannisters/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sir Roger Rain</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/rain/sir-roger-rain/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/rain/sir-roger-rain/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Lazarys</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/randoms/lazarys/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/randoms/lazarys/</id>
+		<content type="html">&lt;p&gt;A super cool house that has some awesome people in it&lt;&#x2F;p&gt;
+&lt;p&gt;People with connections from &lt;a href=&quot;&#x2F;docs&#x2F;kingdoms&#x2F;essos&quot;&gt;Essos&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Serrin</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/randoms/serrin/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/randoms/serrin/</id>
+		<content type="html">&lt;p&gt;Archer from the &lt;a href=&quot;&#x2F;docs&#x2F;events&#x2F;haranhall-tournament&quot;&gt;Haranhall Tournament&lt;&#x2F;a&gt; won first place in the Marksmanship portion.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sir Arlan Of Pennytree</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/randoms/sir-arlan-of-pennytree/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/randoms/sir-arlan-of-pennytree/</id>
+		<content type="html">&lt;p&gt;Random knight we found on the side of the road where a caravan had been raided&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;SUPER POOR&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sir Edmun Of Goldentooth</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/randoms/sir-edmun-of-goldentooth/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/randoms/sir-edmun-of-goldentooth/</id>
+		<content type="html">&lt;p&gt;Was up first against &lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;bartholomew&quot;&gt;Bartholomew&lt;&#x2F;a&gt; in the &lt;a href=&quot;&#x2F;docs&#x2F;events&#x2F;haranhall-tournament&quot;&gt;Haranhall Tournament&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Lord Staton</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/staton/lord-staton/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/staton/lord-staton/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Stefan Staton</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/staton/stefan-staton/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/staton/stefan-staton/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Jason Waters</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/waters/jason-waters/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/waters/jason-waters/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Roger Waters</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/waters/roger-waters/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/waters/roger-waters/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sir Damien Waters</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/houses/waters/sir-damien-waters/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/houses/waters/sir-damien-waters/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;events&#x2F;haranhall-tournament&quot;&gt;Haranhall Tournament&lt;&#x2F;a&gt; won the jousting tournament&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Flea Bottom</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/kingdoms/cities/kings-landing/flea-bottom/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/kingdoms/cities/kings-landing/flea-bottom/</id>
+		<content type="html">&lt;p&gt;Super sketch area.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Goldcloaks</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/kingdoms/cities/kings-landing/goldcloaks/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/kingdoms/cities/kings-landing/goldcloaks/</id>
+		<content type="html">&lt;p&gt;King&#x27;s Guard basically&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Crownlands</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/lands/crownlands/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/lands/crownlands/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Stormlands</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/lands/stormlands/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/lands/stormlands/</id>
+		<content type="html">&lt;p&gt;Gets super stormy up in here&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Faith Of The Seven</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/religions/faith-of-the-seven/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/religions/faith-of-the-seven/</id>
+		<content type="html">&lt;p&gt;Most popular and worship seven gods at once&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Lord Of Light</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/religions/lord-of-light/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/religions/lord-of-light/</id>
+		<content type="html">&lt;p&gt;Religion from &lt;a href=&quot;&#x2F;docs&#x2F;kingdoms&#x2F;essos&quot;&gt;Essos&lt;&#x2F;a&gt; that likes to do fire stuff sometimes&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Old Gods</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/religions/old-gods/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/religions/old-gods/</id>
+		<content type="html">&lt;p&gt;Magical trees and stuff&lt;br &#x2F;&gt;
+Mostly followed by the original inhabitants of &lt;a href=&quot;&#x2F;docs&#x2F;kingdoms&#x2F;westeros&quot;&gt;Westeros&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>October 29Th</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/sessions/october-29th/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/sessions/october-29th/</id>
+		<content type="html">&lt;p&gt;Still at tournament&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;bartholomew&quot;&gt;Bartholomew&lt;&#x2F;a&gt; is out of session&lt;br &#x2F;&gt;
+Want to try starting a fight between &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;braken&#x2F;house-braken&quot;&gt;House Braken&lt;&#x2F;a&gt; and &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;blackwood&#x2F;house-blackwood&quot;&gt;House Blackwood&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Killed a &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;blackwood&#x2F;house-blackwood&quot;&gt;House Blackwood&lt;&#x2F;a&gt; guard and wrote &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;braken&#x2F;house-braken&quot;&gt;House Braken&lt;&#x2F;a&gt; was here on the body&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;braken&#x2F;lord-braken&quot;&gt;Lord Braken&lt;&#x2F;a&gt; got an injury from the night before, should be good for us in the free for, few guards died&lt;br &#x2F;&gt;
+Bradley stole the guard&#x27;s coin purse&lt;br &#x2F;&gt;
+Finally moved pavilions away from each other&lt;&#x2F;p&gt;
+&lt;p&gt;Some melee participants =&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;rain&#x2F;sir-roger-rain&quot;&gt;Sir Roger Rain&lt;&#x2F;a&gt; note to self it is Ser Roger Reyne for spelling&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;sir-arlan-of-pennytree&quot;&gt;Sir Arlan of Pennytree&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;ball&#x2F;sir-quentin-ball&quot;&gt;Sir Quentin Ball&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;Slipped some laxative poison into &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;ball&#x2F;sir-quentin-ball&quot;&gt;Sir Quentin Ball&lt;&#x2F;a&gt; drink&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;encyclopedia&#x2F;hedge-knights&quot;&gt;Hedge Knights&lt;&#x2F;a&gt; - homeless knight basically&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;marksmanship-tournament&quot;&gt;Marksmanship Tournament&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;bartimaeus-storm&quot;&gt;Bartimaeus Storm&lt;&#x2F;a&gt; won second place to &lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;serrin&quot;&gt;Serrin&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;bobbiel-larzin&quot;&gt;Bobbiel Larzin&lt;&#x2F;a&gt; got third but also used a crossbow in a bows only tourney&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;free-for-all-tournament&quot;&gt;Free For All Tournament&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;rychar-lazarys&quot;&gt;Rychar Lazarys&lt;&#x2F;a&gt; almost won&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;chandra-nalaar&quot;&gt;Chandra Nalaar&lt;&#x2F;a&gt; Knocked out semi fast&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;sir-arlan-of-pennytree&quot;&gt;Sir Arlan of Pennytree&lt;&#x2F;a&gt; knocked out in first round&lt;&#x2F;p&gt;
+&lt;p&gt;People wearing guards outfits are dragging &lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;rychar-lazarys&quot;&gt;Rychar Lazarys&lt;&#x2F;a&gt; off to the exit to the castle.&lt;br &#x2F;&gt;
+Blew a horn when he saw &lt;a href=&quot;&#x2F;docs&#x2F;characters&#x2F;bartimaeus-storm&quot;&gt;Bartimaeus Storm&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Smoke rising from one of the towers&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;serrin&quot;&gt;Serrin&lt;&#x2F;a&gt; is on a horse waiting for the guards&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;houses&#x2F;randoms&#x2F;serrin&quot;&gt;Serrin&lt;&#x2F;a&gt; got away but not without a bunch of wounds&lt;&#x2F;p&gt;
+&lt;p&gt;On one of the horses has a shield&lt;br &#x2F;&gt;
+Sigil is of a white ship on a black background&lt;br &#x2F;&gt;
+Nobody knows who that is&lt;br &#x2F;&gt;
+200ss on bodies&lt;&#x2F;p&gt;
+&lt;p&gt;Sending messages back to the house&lt;&#x2F;p&gt;
+&lt;p&gt;30 experience and 2 glory&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Untitled</title>
+		<published>2023-11-19T22:33:23.892916+00:00</published>
+		<updated>2023-11-19T22:33:23.892916+00:00</updated>
+		<link href="https://iceandfire.tyler.games/docs/templates/untitled/" type="text/html"/>
+		<id>https://iceandfire.tyler.games/docs/templates/untitled/</id>
+		<content type="html"></content>
+	</entry>
+</feed>
