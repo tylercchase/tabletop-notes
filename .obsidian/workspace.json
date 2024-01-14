@@ -11,11 +11,10 @@
             "id": "5f72cdc4ddbd9eb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Sessions/December 17th.md",
-                "mode": "source",
-                "source": false
+                "file": "Sessions/December 3rd.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/December 17th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/December 17th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions/December 17th.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,20 +172,24 @@
   "active": "5f72cdc4ddbd9eb0",
   "lastOpenFiles": [
     "Sessions/January 14th.md",
-    "Sessions/December 17th.md",
+    "Sessions/October 29th.md",
+    "aegor.md",
     "Sessions/December 3rd.md",
     "Sessions/November 19th.md",
-    "Sessions/October 29th.md",
     "Sessions/November 12th.md",
-    "Sessions/October 15th.md",
+    "Sessions/December 17th.md",
+    "Houses/Randoms/Sir Arlan of Pennytree.md",
+    "Houses/Randoms/Serrin.md",
+    "Houses/Randoms/Sir Edmun of Goldentooth.md",
     "Sessions/October 22th.md",
+    "Sessions/October 15th.md",
+    "Events/Haranhall Tournament.md",
     "Kingdoms/Cities/Capycove.md",
     "Capycove.md",
     "Encyclopedia/Castellean.md",
     "Houses/Staton/Lord Staton.md",
     "Houses/Braken/Lord Braken.md",
     "Home.md",
-    "Houses/Randoms/Serrin.md",
     "Encyclopedia/Hedge Knights.md",
     "Houses/Rain/Sir Roger Rain.md",
     "Kingdoms/Cities/Kings Landing/Kings Road.md",
@@ -198,10 +197,6 @@
     "Kingdoms/Cities/Kings Landing/Goldcloaks.md",
     "Kingdoms/Cities/Kings Landing/Flea Bottom.md",
     "Houses/Waters/Sir Damien Waters.md",
-    "Religions/Lord of light.md",
-    "Religions/Old Gods.md",
-    "Lands/Stormlands.md",
-    "Lands/Crownlands.md",
     "Pasted image 20231026090547.png",
     "Houses/Randoms",
     "Houses/Lannisters",

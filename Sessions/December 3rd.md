@@ -13,7 +13,7 @@ Making the impression that they should have talked to us not gone after our peas
 
 Negotiate for peace and inflict similar injuries to them.
 
-Lord arol is young, might be itching for a fight.
+[[Lord arol]] is young, might be itching for a fight.
 Need to impress we are not weak
 
 Going to haystack hall.
