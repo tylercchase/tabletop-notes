@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/November 19th.md",
+                "file": "Sessions/December 17th.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/November 19th.md",
+                "file": "Sessions/December 17th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/November 19th.md",
+                "file": "Sessions/December 17th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/November 19th.md"
+                "file": "Sessions/December 17th.md"
               }
             }
           },
@@ -151,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -174,8 +176,11 @@
   },
   "active": "5f72cdc4ddbd9eb0",
   "lastOpenFiles": [
-    "Sessions/October 29th.md",
+    "Sessions/January 14th.md",
+    "Sessions/December 17th.md",
+    "Sessions/December 3rd.md",
     "Sessions/November 19th.md",
+    "Sessions/October 29th.md",
     "Sessions/November 12th.md",
     "Sessions/October 15th.md",
     "Sessions/October 22th.md",
@@ -197,9 +202,6 @@
     "Religions/Old Gods.md",
     "Lands/Stormlands.md",
     "Lands/Crownlands.md",
-    "Kingdoms/Westeros.md",
-    "Kingdoms/Cities/Haranhall.md",
-    "Houses/Staton/Stefan Staton.md",
     "Pasted image 20231026090547.png",
     "Houses/Randoms",
     "Houses/Lannisters",
