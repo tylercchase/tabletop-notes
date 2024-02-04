@@ -47,7 +47,7 @@ Quentin is seething looking at willim get sworn into the kingsguard and angy
 
 getting a group of stark guards wasted and gonna  frame their deaths on lannisters
 
-leaving gold dragons in their mouths and writing the Lannister's were here
+leaving gold dragons in their mouths and writing the 'Lannister's were here'
 
 Have to chose between going after crown or going to the expedition
 [[Rychar Lazarys]] is getting married to House Tandarian
