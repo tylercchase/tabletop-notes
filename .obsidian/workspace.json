@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe0789161e3272c4",
+        "id": "053f692427eec690",
         "type": "tabs",
         "children": [
           {
-            "id": "7416adcf2fc1ff58",
+            "id": "c8b0a7accbb403fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/February 4th 2024.md",
+                "file": "Sessions/February 11th 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/February 4th 2024.md",
+                "file": "Sessions/February 11th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/February 4th 2024.md",
+                "file": "Sessions/February 11th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/February 4th 2024.md"
+                "file": "Sessions/February 11th 2024.md"
               }
             }
           },
@@ -174,17 +174,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7416adcf2fc1ff58",
+  "active": "c8b0a7accbb403fd",
   "lastOpenFiles": [
-    "Sessions/January 14th 2024.md",
+    "Sessions/February 11th 2024.md",
     "Sessions/February 4th 2024.md",
+    "Sessions/December 17th.md",
+    "Sessions/January 14th 2024.md",
     "Corelus.md",
     "Sessions/October 29th.md",
     "aegor.md",
     "Sessions/December 3rd.md",
     "Sessions/November 19th.md",
     "Sessions/November 12th.md",
-    "Sessions/December 17th.md",
     "Houses/Randoms/Sir Arlan of Pennytree.md",
     "Houses/Randoms/Serrin.md",
     "Houses/Randoms/Sir Edmun of Goldentooth.md",
@@ -201,7 +202,6 @@
     "Houses/Rain/Sir Roger Rain.md",
     "Kingdoms/Cities/Kings Landing/Kings Road.md",
     "Kingdoms/Cities/Kings Landing/Kings Landing.md",
-    "Kingdoms/Cities/Kings Landing/Goldcloaks.md",
     "Pasted image 20231026090547.png",
     "Houses/Randoms",
     "Houses/Lannisters",
