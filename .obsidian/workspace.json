@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "053f692427eec690",
+        "id": "3fe0e18fd683cd8d",
         "type": "tabs",
         "children": [
           {
-            "id": "c8b0a7accbb403fd",
+            "id": "9189a6743e51d369",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/February 11th 2024.md",
+                "file": "Sessions/February 25th, 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a3fc79638ddfad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/March 3, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "207e998a8f2efe5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/March 3, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "787d9fb9a438c470",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lynol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/February 11th 2024.md",
+                "file": "Sessions/March 3, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/February 11th 2024.md",
+                "file": "Sessions/March 3, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/February 11th 2024.md"
+                "file": "Sessions/March 3, 2024.md"
               }
             }
           },
@@ -174,34 +210,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8b0a7accbb403fd",
+  "active": "d7f43e8d68c340f5",
   "lastOpenFiles": [
-    "Sessions/February 11th 2024.md",
-    "Sessions/February 4th 2024.md",
+    "Characters/Bartholomew.md",
+    "Characters/Bartimaeus Storm.md",
+    "Sessions/March 3, 2024.md",
+    "Characters/Bobbiel Larzin.md",
+    "Characters/Chandra Nalaar.md",
+    "Characters/Fyrelis Lazarys.md",
+    "Characters/Rychar Lazarys.md",
+    "Home.md",
+    "Houses/Randoms/Serrin.md",
+    "Sessions/November 12th.md",
+    "Sessions/October 15th.md",
     "Sessions/December 17th.md",
+    "Sessions/February 4th 2024.md",
+    "Sessions/February 11th 2024.md",
+    "Sessions/February 25th, 2024.md",
     "Sessions/January 14th 2024.md",
     "Corelus.md",
     "Sessions/October 29th.md",
     "aegor.md",
     "Sessions/December 3rd.md",
     "Sessions/November 19th.md",
-    "Sessions/November 12th.md",
     "Houses/Randoms/Sir Arlan of Pennytree.md",
-    "Houses/Randoms/Serrin.md",
     "Houses/Randoms/Sir Edmun of Goldentooth.md",
     "Sessions/October 22th.md",
-    "Sessions/October 15th.md",
     "Events/Haranhall Tournament.md",
     "Kingdoms/Cities/Capycove.md",
-    "Capycove.md",
-    "Encyclopedia/Castellean.md",
-    "Houses/Staton/Lord Staton.md",
-    "Houses/Braken/Lord Braken.md",
-    "Home.md",
-    "Encyclopedia/Hedge Knights.md",
-    "Houses/Rain/Sir Roger Rain.md",
-    "Kingdoms/Cities/Kings Landing/Kings Road.md",
-    "Kingdoms/Cities/Kings Landing/Kings Landing.md",
     "Pasted image 20231026090547.png",
     "Houses/Randoms",
     "Houses/Lannisters",
