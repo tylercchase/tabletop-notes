@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "df9c7fe98a9339f7",
+        "id": "e922f3c7b2609093",
         "type": "tabs",
         "children": [
           {
-            "id": "1583861135b4736d",
+            "id": "faf712682ff1be96",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Dontos.md",
-                "staged": false
+                "file": "Sessions/May 19th 2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pirate",
+                "query": "moorewind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/May 19th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/May 19th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/May 19th 2024.md"
+              }
             }
           },
           {
@@ -169,16 +174,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1583861135b4736d",
+  "active": "faf712682ff1be96",
   "lastOpenFiles": [
+    "Sessions/April 14, 2024.md",
+    "Sessions/November 19th.md",
+    "Sessions/November 12th.md",
+    "Sessions/May 19th 2024.md",
+    "Sessions/March 24th, 2024.md",
     "Sessions/March 10th, 2024.md",
+    "Sessions/March 3, 2024.md",
     "Sessions/December 17th.md",
     "Sessions/October 29th.md",
+    "Sessions/October 22th.md",
+    "Sessions/February 25th, 2024.md",
+    "Sessions/December 3rd.md",
+    "Sessions/February 4th 2024.md",
+    "Sessions/February 11th 2024.md",
+    "Sessions/January 14th 2024.md",
+    "Houses/Randoms/Sir Arlan of Pennytree.md",
     "Dontos.md",
     "Events/Haranhall Tournament.md",
     "Sessions/October 15th.md",
-    "Sessions/March 3, 2024.md",
-    "Sessions/November 19th.md",
     "Characters/Bartholomew.md",
     "Characters/Bartimaeus Storm.md",
     "Characters/Bobbiel Larzin.md",
@@ -186,17 +202,6 @@
     "Characters/Fyrelis Lazarys.md",
     "Characters/Rychar Lazarys.md",
     "Home.md",
-    "Houses/Randoms/Serrin.md",
-    "Sessions/November 12th.md",
-    "Sessions/February 4th 2024.md",
-    "Sessions/February 11th 2024.md",
-    "Sessions/February 25th, 2024.md",
-    "Sessions/January 14th 2024.md",
-    "Corelus.md",
-    "aegor.md",
-    "Sessions/December 3rd.md",
-    "Houses/Randoms/Sir Arlan of Pennytree.md",
-    "Houses/Randoms/Sir Edmun of Goldentooth.md",
     "Pasted image 20231026090547.png",
     "Houses/Randoms",
     "Houses/Lannisters",
