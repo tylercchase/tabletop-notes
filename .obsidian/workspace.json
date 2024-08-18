@@ -4,29 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "e922f3c7b2609093",
+        "id": "a7a29a760a539ca9",
         "type": "tabs",
         "children": [
           {
-            "id": "faf712682ff1be96",
+            "id": "b435ad516d4fdac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/May 19th 2024.md",
+                "file": "Sessions/August 11th, 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a6c20133166be737",
+            "id": "0e33b90ffe25df84",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Sessions/August 11th, 2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/August 11th, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/August 11th, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/August 11th, 2024.md"
+              }
             }
           },
           {
@@ -182,11 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6c20133166be737",
+  "active": "0e33b90ffe25df84",
   "lastOpenFiles": [
-    "Sessions/June 16th 2024.md",
-    "Sessions/May 19th 2024.md",
+    "Sessions/August 18th, 2024.md",
+    "Sessions/August 11th, 2024.md",
     "Sessions/April 14, 2024.md",
+    "Sessions/May 19th 2024.md",
+    "Sessions/June 16th 2024.md",
     "Sessions/November 19th.md",
     "Sessions/November 12th.md",
     "Sessions/March 24th, 2024.md",
@@ -208,8 +215,6 @@
     "Characters/Bartimaeus Storm.md",
     "Characters/Bobbiel Larzin.md",
     "Characters/Chandra Nalaar.md",
-    "Characters/Fyrelis Lazarys.md",
-    "Characters/Rychar Lazarys.md",
     "Pasted image 20231026090547.png",
     "Houses/Randoms",
     "Houses/Lannisters",
