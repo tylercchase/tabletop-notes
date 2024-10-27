@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a7a29a760a539ca9",
+        "id": "16b95f9d3ef8e6fd",
         "type": "tabs",
         "children": [
           {
-            "id": "ec530fdf3036129a",
+            "id": "32fc083dad1f07f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/January 14th 2024.md",
+                "file": "Sessions/September 15th, 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b435ad516d4fdac3",
+            "id": "348954fbc508398b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Sessions/August 18th, 2024.md",
-                "staged": false
+                "file": "Sessions/September 29th, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b465fb2328966ab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/October 27th, 2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "silver",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/October 27th, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/October 27th, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/October 27th, 2024.md"
+              }
             }
           },
           {
@@ -183,9 +199,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b435ad516d4fdac3",
+  "active": "c216fc2ad1563448",
   "lastOpenFiles": [
+    "Sessions/September 29th, 2024.md",
+    "Sessions/October 27th, 2024.md",
+    "Sessions/September 15th, 2024.md",
     "Sessions/August 18th, 2024.md",
+    "Sessions/December 3rd.md",
+    "Sessions/January 14th 2024.md",
     "Sessions/November 19th.md",
     "Sessions/May 19th 2024.md",
     "Sessions/June 16th 2024.md",
@@ -193,8 +214,6 @@
     "Sessions/February 11th 2024.md",
     "Sessions/August 11th, 2024.md",
     "Sessions/October 29th.md",
-    "Sessions/January 14th 2024.md",
-    "Sessions/December 3rd.md",
     "Sessions/February 4th 2024.md",
     "Sessions/March 24th, 2024.md",
     "Sessions/October 22th.md",
@@ -208,9 +227,6 @@
     "Events/Haranhall Tournament.md",
     "Sessions/October 15th.md",
     "Characters/Bartholomew.md",
-    "Characters/Bartimaeus Storm.md",
-    "Characters/Bobbiel Larzin.md",
-    "Characters/Chandra Nalaar.md",
     "Pasted image 20231026090547.png",
     "Houses/Randoms",
     "Houses/Lannisters",
